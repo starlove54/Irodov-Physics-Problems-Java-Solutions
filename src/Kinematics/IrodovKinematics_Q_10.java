@@ -3,7 +3,6 @@ package Kinematics;
 public class IrodovKinematics_Q_10 {
 
     public static void main(String[] args) {
-
         double result = calculate(1.7, 60, 25);
         System.out.println(roundToTwoDecimalPlaces(result));
     }
